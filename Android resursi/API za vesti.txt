@@ -1,0 +1,18 @@
+Moj API kljuc za vesti:
+
+89cecfc4fed94fbe9ad1f01407726463
+
+Vesti:
+
+BBC news:
+
+https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=89cecfc4fed94fbe9ad1f01407726463
+
+BBC Sport:
+
+https://newsapi.org/v2/top-headlines?sources=bbc-sport&apiKey=89cecfc4fed94fbe9ad1f01407726463
+
+Web sajt sa koga sam ga dobio je:
+
+https://newsapi.org/sources
+
